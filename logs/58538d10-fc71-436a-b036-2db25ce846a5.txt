@@ -1,0 +1,16 @@
+# Modmail thread #4 with Afterlife#1337 (971877968458690610) started at 2022-06-24 19:42:52. All times are in UTC+0.
+
+[2022-06-24 19:42:53] [BOT] ACCOUNT AGE **1 month, 3 weeks**, ID **971877968458690610**
+NICKNAME **Afterlife**, JOINED **2 weeks, 3 days** ago
+────────────────
+[2022-06-24 19:42:53] [FROM USER] [Afterlife#1337] yo im bored asf so im willing to make some media
+[2022-06-24 19:42:55] [BOT TO USER] Thank you for your message!Our staff team will reply to you as soon as possible.
+[2022-06-24 19:44:04] [TO USER] [vvuy] (Admin) vvuy: okay
+[2022-06-24 19:44:34] [FROM USER] [Afterlife#1337] do you need a media creator?
+[2022-06-24 19:45:04] [TO USER] [аbс] (Admin) аbс: buy a key first, make media, get extended time if its good 🙂
+[2022-06-24 19:45:28] [FROM USER] [Afterlife#1337] that gay cba
+[2022-06-24 19:45:32] [FROM USER] [Afterlife#1337] close ticket
+[2022-06-24 19:45:40] [TO USER] [аbс] (Admin) аbс: bye
+[2022-06-24 19:45:40] [COMMAND] [аbс#1337] .close
+[2022-06-24 19:45:42] [BOT TO USER] Your Ticket has been closed.
+[2022-06-24 19:45:42] [BOT] Closing thread...

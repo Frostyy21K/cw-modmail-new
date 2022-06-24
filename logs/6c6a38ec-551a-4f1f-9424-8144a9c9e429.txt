@@ -1,0 +1,31 @@
+# Modmail thread #7 with hecker#4677 (804094688184369173) started at 2022-06-24 20:53:31. All times are in UTC+0.
+
+[2022-06-24 20:53:32] [BOT] ACCOUNT AGE **1 year, 5 months**, ID **804094688184369173**
+NICKNAME **hecker**, JOINED **1 month, 3 weeks** ago
+────────────────
+[2022-06-24 20:53:32] [FROM USER] [hecker#4677] why
+[2022-06-24 20:53:33] [BOT TO USER] Thank you for your message!Our staff team will reply to you as soon as possible.
+[2022-06-24 20:53:37] [FROM USER] [hecker#4677] does
+[2022-06-24 20:53:41] [FROM USER] [hecker#4677] spoofer
+[2022-06-24 20:53:41] [FROM USER] [hecker#4677] paypal
+[2022-06-24 20:53:43] [FROM USER] [hecker#4677] account
+[2022-06-24 20:53:44] [FROM USER] [hecker#4677] limted
+[2022-06-24 20:53:45] [FROM USER] [hecker#4677] ?
+[2022-06-24 20:53:51] [TO USER] [аbс] (Admin) аbс: cuz
+[2022-06-24 20:53:53] [TO USER] [аbс] (Admin) аbс: it is
+[2022-06-24 20:53:57] [TO USER] [vvuy] (Admin) vvuy: why did you feel the need
+[2022-06-24 20:53:58] [FROM USER] [hecker#4677] cap
+[2022-06-24 20:53:59] [TO USER] [vvuy] (Admin) vvuy: to make a ticket
+[2022-06-24 20:54:03] [FROM USER] [hecker#4677] bc joe
+[2022-06-24 20:54:07] [TO USER] [vvuy] (Admin) vvuy: holy shit
+[2022-06-24 20:54:12] [TO USER] [vvuy] (Admin) vvuy: beluga name with a joe memes
+[2022-06-24 20:54:13] [TO USER] [vvuy] (Admin) vvuy: holy shit
+[2022-06-24 20:54:17] [TO USER] [vvuy] (Admin) vvuy: are you 9 years old?
+[2022-06-24 20:54:33] [FROM USER] [hecker#4677] no i am 1
+[2022-06-24 20:54:36] [TO USER] [vvuy] (Admin) vvuy: yeah
+[2022-06-24 20:54:38] [TO USER] [vvuy] (Admin) vvuy: your funny
+[2022-06-24 20:54:41] [TO USER] [vvuy] (Admin) vvuy: this is why you get buillied
+[2022-06-24 20:54:42] [COMMAND] [vvuy#0001] .block
+[2022-06-24 20:54:43] [COMMAND] [vvuy#0001] .close
+[2022-06-24 20:54:44] [BOT TO USER] Your Ticket has been closed.
+[2022-06-24 20:54:45] [BOT] Closing thread...

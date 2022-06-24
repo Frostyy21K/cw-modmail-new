@@ -1,0 +1,32 @@
+# Modmail thread #8 with Fishh#0193 (770098499857023016) started at 2022-06-24 20:55:02. All times are in UTC+0.
+
+[2022-06-24 20:55:03] [BOT] ACCOUNT AGE **1 year, 8 months**, ID **770098499857023016**
+NICKNAME **Fishh**, JOINED **1 month, 3 weeks** ago
+────────────────
+[2022-06-24 20:55:03] [FROM USER] [Fishh#0193] 
+
+https://cdn.discordapp.com/attachments/989997075712340009/989997091940085810/unknown.png
+[2022-06-24 20:55:04] [BOT TO USER] Thank you for your message!Our staff team will reply to you as soon as possible.
+[2022-06-24 20:55:06] [FROM USER] [Fishh#0193] doesnt let me buy
+[2022-06-24 20:55:13] [TO USER] [vvuy] (Admin) vvuy: read what it says
+[2022-06-24 20:55:29] [COMMAND] [Zyrix#7610] . istg people just dont have eyes
+[2022-06-24 20:55:31] [COMMAND] [vvuy#0001] . ong
+[2022-06-24 20:55:36] [COMMAND] [Zyrix#7610] . can they pay via tickets still?
+[2022-06-24 20:55:37] [COMMAND] [vvuy#0001] . literally could be in 100 sized font
+[2022-06-24 20:55:41] [COMMAND] [vvuy#0001] . wym
+[2022-06-24 20:55:44] [COMMAND] [vvuy#0001] . oh yeah
+[2022-06-24 20:55:52] [COMMAND] [Zyrix#7610] . whats da paypal
+[2022-06-24 20:55:58] [COMMAND] [vvuy#0001] . its termed
+[2022-06-24 20:56:06] [COMMAND] [Zyrix#7610] . lol
+[2022-06-24 20:56:07] [COMMAND] [vvuy#0001] . we take btc/eth/ltc only
+[2022-06-24 20:56:21] [TO USER] [Zyrix] (Trial Support) Zyrix: atm paypal is blocked, we only take crypto rn
+[2022-06-24 20:56:51] [FROM USER] [Fishh#0193] ok
+[2022-06-24 20:57:50] [TO USER] [Zyrix] (Trial Support) Zyrix: would you like to pay via crypto?
+[2022-06-24 20:58:03] [COMMAND] [vvuy#0001] . he defo dont have crypto
+[2022-06-24 20:58:09] [COMMAND] [Zyrix#7610] . fr
+[2022-06-24 21:04:10] [TO USER] [Zyrix] (Trial Support) Zyrix: Would you like to pay with crypto or may I close this ticket
+[2022-06-24 21:04:42] [FROM USER] [Fishh#0193] close ticket
+[2022-06-24 21:04:46] [TO USER] [vvuy] (Admin) vvuy: ok
+[2022-06-24 21:04:47] [COMMAND] [vvuy#0001] .close
+[2022-06-24 21:04:48] [BOT TO USER] Your Ticket has been closed.
+[2022-06-24 21:04:49] [BOT] Closing thread...

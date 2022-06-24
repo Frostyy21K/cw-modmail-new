@@ -1,0 +1,13 @@
+# Modmail thread #2 with indo#1582 (413000556580306944) started at 2022-06-24 18:05:16. All times are in UTC+0.
+
+[2022-06-24 18:05:19] [BOT] ACCOUNT AGE **4 years, 4 months**, ID **413000556580306944**
+NICKNAME **Dill Doe**, JOINED **1 month, 1 week** ago
+────────────────
+[2022-06-24 18:05:19] [FROM USER] [indo#1582] erdggr
+[2022-06-24 18:05:21] [BOT TO USER] Thank you for your message!Our staff team will reply to you as soon as possible.
+[2022-06-24 18:05:23] [TO USER] [аbс] (Admin) аbс: sorted
+[2022-06-24 18:05:24] [TO USER] [indo] (Staff Manager) indo: alr
+[2022-06-24 18:05:28] [TO USER] [аbс] (Admin) аbс: safe g
+[2022-06-24 18:05:29] [COMMAND] [аbс#1337] .close
+[2022-06-24 18:05:30] [BOT TO USER] Your Ticket has been closed.
+[2022-06-24 18:05:30] [BOT] Closing thread...
